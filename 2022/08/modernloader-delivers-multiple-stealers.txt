@@ -1,0 +1,217 @@
+IPs
+31.41.244.231 - initial C2
+31.41.244.235 - C2 for backdoors and stealers
+62.204.41.192 - a similar campaign from March 2022
+62.204.41.71 - another similar campaign from March 2022 
+Mining pool address
+"44Ds8fbC3HWQCcwQotgrNDUWnmDixpQPG7YLh5h2rzSMQrxCRXeSjQvH8LRPNGSyqvXcKeEk3umZ7T2wzFAgovF15UckBxg” (the activity can be monitored at https://monero.hashvault.pro/en/dashboard)
+
+SHA256
+Offer downloaders from to 31.41.244.231
+1c58274fbbeaf7178a478aea5e27b52d5ead7c66e24371a4089568fa6908818c
+55a8abbffa2a1202074fb98f95ff289e40c0b1af4eb02dac010e73e73292bce5
+055d6924025d4b99cf654370ae5a6da1721da6f533d1503a52e44c4cf0279752
+dc5255a5bcc89266ea0c7ca79f7a52ab281cbb6cc1980ee5b3a818114c01b93c
+1ddbf6cb9e4c92e93118d8f2ca98922195cf683926777b2c160f5d05d52f3fd5
+
+Offer downloader from 62.204.41.192
+d515a231ae9c84d48ca94ba14c49d358d5f8da0cb7775db03e512a1926ab63f0
+
+Offer downloaders from 62.204.41.71
+27bb9ee41bc7745854e3f3687955f1a6df3bbd74a7d1050a68fe0d0e6087b4b3
+c7983443eed6e6bd0e6daa31f12eb7a566b4be4e6c406511e2a9968de5d2a134
+01172ec5d6a0087feca500e9b6eb05b609f64f6842440492e2a51539a3cd9677
+aa716c4d976ff130076456be088fe6071235e34628791260017445bb173874b5
+ea80cca346fc4fc6fecdfe5be65dd3398b815aa5a2080bf7aaf30a07d67373e9
+717ff914b9fb4d22473f00fe6d75c084e0e293e7eca9c446e9b2c1eb2e29e92f
+a4c75c90355226ef3f1a7cf056e77b9bc4aed5e26021ac4f473ed2e5de460a4a
+a20a9f118a35d08803b47309887fc02247ed5a7e368298185c77cd99e9376f29
+6005eca5a972057a82ed09dc8c569bbd0825b41520dfbc21adef46ad1b6b202a
+ffbf91dabb558edfde54830e9e6a683b7f678958a96ca2cb4f4c7de468e9684c
+02942c6aa136a571d8c764f2aa5ff3902dafb9b292bc2934ad6ee33f4d4e3eda
+273f67ed293ac5529adead81cc27766038314a5a027364c0061f4c095d6e128f
+357265cfb5b6e9fb9fe317f49ee98c71e937bb7a46f3080dc9a9c369ef8fc2b4
+c9e8b363a978ecc90b020cd42e5fe1b6685d5a4e906221c5fd857350d3e33588
+6747a2c81dcbca69546525717e50214119dcb5d262339bcd65b4a4b9dc889a93
+2cf4538d2e2a40e053803802c6f2afbd872dbba20a5db889c6efb56c300e3669
+6dff9e121adf4e891d5c3b2f9a7ee2afd77297efdbe1fc3646c938a0c39f51da
+843a15e310d1880b3fbc01017aa628ffed63f9bced1ea279a05abd0e6a9fbbbc
+7e4454c27c9f0c43f1dbf0b7c8393b878b43e273a9260168b966cec7fdad00d0
+9b347b48026f205733abbc24c502dfff5428341e10c6944687cdbfe70770f5f3
+6b95c89d2c8415e4612184f2db5817e510adf50eb50e5635c4c38ddd99d159f8
+33310c9203ceb815885c26d0f13284cbf837210ca1381fd10470bdf0c163e84f
+c09596ee4b4f9db4ac8aba0e734aff43141900372b5067aa0bf34b288374bf21
+
+
+Amazon Gift Card 500 USD.gift.vbs
+5750d8d557fdcb6afb2d8cb52993fb07ac84a63aab0afc44efe30ffe08d48c2f
+
+
+HTAs to 31.41.244.231
+C025717279d0385b679f271d0b9b823bce51d9ebe999d50172f90497e10b96a6 - Chrome Setup Update.google.hta - https://10.7.78.145/joesandbox/index.php/analysis/40472/0/html
+9f9d66cb3f94e3b5f86a90fd353c6f345a75d95f3ab78388904d6bc0e69b8979 - MSHTA (Protware HTML guardian)
+
+
+Miners
+0f849daba7bc798a551e7413dfea82a31b0dbbabe0eea5a3e30435b3e4fe5b16
+21e72be7f818e2afd4d53ee8f16c7e4a4718a95dd75b90d83fa26181e426f578 - onedrive.exe (mines.go)
+27220790475f6cf42fbaff5e5fbdfe452b7d79116547878b01ecdbc1c6a5b942
+458ace2ac6489d819114edaae4e21273674044fc11c8eec2fa2fcb3c46a8cbd2
+7c2e0deaee30925a058c9355219e503d9adc854151953b88713f4f358237542c - HWMonitor.exe - golang, copies itself into miner OneDrive.exe, Sapphire miner
+e893e88a9c12b249bd4908e48ba4820a8f5e26e5a9185063130336e315bf10ec - HWMonitor.exe - golang miner
+11bd2c9f9e2397c9a16e0990e4ed2cf0679498fe0fd418a3dfdac60b5c160ee5 - kernel driver for helping xmrig
+dcf0ae4b93d7a2b882a7a039a7488e69ebd390410c66c3bb26c448c9c3421273 - mine.exe
+
+
+
+
+ModernLoader downloaders
+2804fca7beb41e9cade27a7733074c0d029b36535766ad1f99b37d33e960194a
+4c62c5f573bad903d9a45625381a41b65a5a281e422a1ed01d3632ea201473ca
+83860e6fd39f1aef404f611bb9d9894ddeb0bb4fe7762d603eb4b8cb6c1f6df1
+bb9e4a057d1ab1c28184901c50daddc18743399ca836c2183745c08443a486cc
+40d68523748f6eaf765970a40458faccbe84ef5dff7acbdaf29ac5a69d7cae6f - XBinder-Outpu from ws.go Powershell module
+
+
+Auxiliary Binary Payloads
+142c333bef9eab4ce9d324e177572423c845ee399c01b4b78cfff730b4cb79b4 - auto.exe dropped from no.go
+852857c66ee72f264c26d69c1f4092e99c2ed1fdcfef875f982fb75ed620ccc0 - Bypass Defender module, likely from https://github.com/alexthomas96/BypassDefender
+d9c8e82c42e489ac7a484cb98fed40980d63952be9a88ff9538fc23f7d4eb27f - AUTORUNNN.exe
+881235fca4aeeb88950b952c0d9ce1a7d9a4eb838ce7d79447a26d2f45b1eaa5 - sharp hide from auto.oo
+561dbfdaee5235ced1ba87b5a7675d2f8280b14f7ddb0c1810ef6d41b0a26358 - socks.go
+16e3b861af718a184e88fef4fc9e7940f8852700a9e6ec4ab8c43aec3da5d478 - Socks.go
+
+
+ModernLoader payloads
+93f6033d73d65da1868b68ae3f4e0854629f6419926d6ce284ecbeb66182fbfc - modernloader (aka avatarloader) aka UpdatersHelper.exe
+3f5856a9ec23f6daf20fe9e42e56da1b8dcb0de66b6628a92b554d6e17c02fc3
+8e08cdfb0d7e2b73b2c88adbd47329121da15650b0629fd388a656c806d2349d - one of the injected modules Slim.exe, which eventually injected the ModerLoader
+53b09a7c8bf41ed9015b8e3a98fb8b8581e82d17c1ead0bd0293f2e3e9996519
+09db213df3dbd950a8bc75246be72f5b572b00dbd3a5bba45c7074443d0928a7 - ml.exe from xboxlive.ps, this is another instance of obfuscated ModernLoader
+dfd07867701a45f939388c2188a8905ac2085ed1db47902a73e9fc7e9cebfebf - slim.exe from smartscreen.ps
+
+DcRAT
+2c631588c491aa32c20f6a99201ba82982a31b1c763054562d59cd1a5a1ea14b
+
+VB script downloader
+C103c7686739669f3cfc123de34bdadb803c4ec8727cf12cd7cdc56be4bf60e1
+
+Redline stealer
+b71c43bf7af23ed6a12bdb7ce96a4755b8a7f285b8aa802484e8b2dfa191f14e
+
+
+Loader Assemblies
+a6b5ff5ea610348c2ebfa2f72ab02e5d55d6e7b0be2a084760bed1a4fa0e0427 - friday.dll injector
+cf3e8385f959ca544ad6c0a0c34f8f43f030aec3876fac29539e618f618d767b - killamsi.dll to disable AMSI
+
+
+Droppers
+03093e93fab5d7371461ccb5cd582d4e228437b96e4d608cce2beaed4e1e25a6
+2f79650a0ccbea90af78449a371c9bb2786651532bc6ab86bb78247e09e93d5e - drops off.bat which downloads the Off.zz (to enable RDP on the system) the filename XBinder-Output.exe
+3232126860f3729dda59f9db6476773997b4bcfb08e2e4b32b5214c30507d775
+4621924ff1b05ad7c15bc4b5dad68f7c8c3eceaf7824444b149264eff79d4b9a
+4a6ef2379195140aa31d339329ca06bd28589fa13fd88cfcf9d76cb2d4ab99c1
+3f2f84147c55e5fc42261ace15ad55239d0bcba31a9acd20b99c999efbb9d392
+482defc8b96969218ed6c4c28d61f8ed2106b3e0e29b9b92641a32336e16484a
+3060665914753be2ea1a6573c1e071336150744d8e26bb452eae4f5030d549ea - a dropper for an offer.exe downloader
+7e73bc53cd4e540e1d492e6fd8ff630354cd8a78134e99bc0b252eccb559c97a
+c525ca40c3eb805eb373e962b405945cb66ab1d27e8ec98d6b6648a555d95514 - bobsoft installer that seems to be built by http://www.actualinstaller.com
+eeb3e3fb24fa1bf0f96a250f8d19d64f0585ab4ea42107e5375ea2afffdf4b1d
+
+Powershell on/to 31.41.244.231
+094fd8bfe95faa7f0abe4efedbe7fed54821925ad6ec8d6aa19d2e466ca87fd8 - loader.go
+dd24e5596c318b30c05cffc7467f5649564ab93874c9201bf758a1a2ce05228c - ws.go
+9bad14bae9540575ad53055532fa65e2abb3d11f086c36f92d2f12ff4bdfcda6 - ww.cc
+79eae9ce98835b78f562861bb49140708456ac6b086366b4b0a18c6d9d52fc88 - no.go
+4744c303ce3bcc571a789c8a7ae9f9b1ac7cc88320a19d9cfa2fde8be15e1644 - auto.oo
+4eb22cf54284e1d132fc2e7a82230c0bd1c1e35b02091c5e068bdc41d1611a67 - powershell autorun script from hxxp[://]31[.]41[.]244[.]231/0x/?0=autorun
+03b0a28d86c6b8be40ca0a29e5c266f39f3370c07e9656cd1454c4b157886659 - RegAsm.go
+8ae7f67859e4379f013ae8ca829a43a615c461e0d84adf0c5480ffcf1671f513 - R0.go
+0a130fac286e0bf8ffdccd9c4c6efa67c07be9cc2dc945aab7e62c31a9375f5b - Redline Powershell
+38ac8557af3b13b34c16c66f146c17e2f74cc36af8cf18f166c9e66de6a43f70 - gogo (socks downloader)
+4e94ceb1a7c31fd283c863195888615cf217063297731e5a9ad35656c93d8aa3 - Smartscreen go.oo
+89b526355390e8fcd257bf7be224d45c216bde721550b52b1bc7df75bffe0997 - Xboxlive go.oo
+
+
+ 
+RDP server related 
+(from 62840ad088611b6e8f4313ab360b0933e99d3caa2232393ed02aa55e32d9fa4e)
+It could be a variant of https://github.com/anhkgg/SuperRDP related files:
+83d4896502e010a259af609e685b17346d120f204d42c5c521c40d4ffc6d31f2 - BAT RDP archive bitsadmin downloader
+2f2be8c356fd1ab77da9b6581ea9862842b8d5c8e934c2c85603d5c14c4db9b5 - offer.vbs uploads hostfile to c2
+Ee40370c1ef8aee0e21c979df62bc9e7a38b071c7c68c28bb6aa98bf58fa1164 - tor.exe likely TOR client, could be a PUA
+Edec8cf21283d995fae37148e629db466836a54243ca49a8e4d4bbd05594414c - HRDP.exe dropper for the RDP server (rdp.exe)
+87bf8e4545cc5134b5002c094829ae1a6d320cad42f0420c3f81b7821ee37865 - offer.bat, launches HRDP
+B46452e39e67a59bd65a1c4eb397ad0be860e96db21a837f295851a4f2aa9527 - rdpwrap.dll
+26962bdeb4fce6ca26961ffecd0f71f45587bf5ad1682a8cdd05eb4cb140d082 - rdp.exe, RDP server likely
+63fb5b4c9218421648e8ab8425da13f3184506cb4024c52282b369eab4787b94 - user.bat
+
+
+ProjectDiscordSpreader
+838170edffbca1cadef3b7039330376c1aad914883103834c25e9bb92d9bfad1 - utweb.exe
+
+PHP that communicates with 62.204.41.192
+9704fa1a8242643f66572e7ee68e4e7d7bec9e7054319b8551fed4b3b0ccdd45 - artadd.php - found in two archives of compromised sites - one WordPress and one Cpanel (Feb and Mar 2022) - in the Cpanel one there is also an elf XMRig (with filename hungarian)
+a249c275b0ad384ae1906d2ec169f77abce9d712ab8470eb5fe7040a71948026 - futer.php
+
+URLs
+
+URLs to C2_1 31[.]41[.]244[.]231
+hxxp[://]31[.]41[.]244[.]231/avava/
+hxxp[://]31[.]41[.]244[.]231/rdp/
+hxxp[://]31[.]41[.]244[.]231/rdp/off.zz
+hxxp[://]31[.]41[.]244[.]231/0xhello/updatershelper[.]go
+hxxp[://]31[.]41[.]244[.]231/0xsocks/socks[.]go
+hxxp[://]31[.]41[.]244[.]231/0xmine/mines[.]go
+hxxp[://]31[.]41[.]244[.]231/0x/loader[.]go
+hxxp[://]31[.]41[.]244[.]231/0x/?0=loader
+hxxp[://]31[.]41[.]244[.]231/0xstill?0=meta
+hxxp[://]31[.]41[.]244[.]231/0xmine/gos[.]go
+hxxp[://]31[.]41[.]244[.]231/0xnana
+hxxp[://]31[.]41[.]244[.]231/0x/?0=autorun
+hxxp[://]31[.]41[.]244[.]231/avava/waw/appdata
+hxxp[://]31[.]41[.]244[.]231/0x0
+hxxp[://]31[.]41[.]244[.]231/0x0/ww[.]cc
+hxxp[://]31[.]41[.]244[.]231/0xmine/mine[.]go
+hxxp[://]31[.]41[.]244[.]231/AVAVA/gate[.]php
+hxxp[://]31[.]41[.]244[.]231/0x0/r0[.]go
+hxxp[://]31[.]41[.]244[.]231/0xnana/no[.]go
+hxxp[://]31[.]41[.]244[.]231/AVAVA/WAW/APPDATA/SmartScreen[.]im
+hxxp[://]31[.]41[.]244[.]231/AVAVA/WAW/APPDATA/SmartScreen[.]ps
+hxxp[://]31[.]41[.]244[.]231/AVAVA/WAW/APPDATA/auto[.]oo
+hxxp[://]31[.]41[.]244[.]231/AVAVA/WAW/APPDATA/go[.]oo
+hxxp[://]31[.]41[.]244[.]231/AVAVA/WAW/Documents/go[.]oo
+hxxp[://]go[.]clss[.]cl/0k#=GoogleWindowsAnalyticsConfiguration
+
+URLs to C2_2 62[.]204[.]41[.]192
+hxxp[://]62[.]204[.]41[.]192/silent[.]exe
+hxxp[://]62[.]204[.]41[.]192/-lod/lod[.]exe
+hxxp[://]62[.]204[.]41[.]192/cs/drive[.]exe
+hxxp[://]62[.]204[.]41[.]192/-s/worm[.]oo
+hxxp[://]62[.]204[.]41[.]192/n2/18[.]exe
+hxxp[://]62[.]204[.]41[.]192/amsi/ecco[.]exe
+hxxp[://]62[.]204[.]41[.]192/n2/22[.]exe
+hxxp[://]62[.]204[.]41[.]192/-s/load[.]hta
+hxxp[://]62[.]204[.]41[.]192/-red/non[.]oo
+hxxp[://]62[.]204[.]41[.]192/ava/gate[.]php
+hxxp[://]62[.]204[.]41[.]192/w2/w2[.]oo
+hxxps[://]62[.]204[.]41[.]192/
+hxxp[://]62[.]204[.]41[.]192/n2/lol[.]exe
+hxxp[://]62[.]204[.]41[.]192/n2/11[.]exe
+hxxp[://]62[.]204[.]41[.]192/n2/buy[.]exe
+hxxp[://]62[.]204[.]41[.]192/offer/ww[.]cc
+hxxp[://]62[.]204[.]41[.]192/AMSI/Workshop[.]zip
+http[://]62[.]204[.]41[.]192/AMSI/Works[.]exe
+hxxp[://]62[.]204[.]41[.]192/cs/fax[.]oo
+hxxp[://]62[.]204[.]41[.]192/cs/RED[.]oo
+hxxp[://]62[.]204[.]41[.]192/cs/SkyDrive[.]oo
+
+
+URLs to C2_3 62[.]204[.]41[.]71
+hxxp[://]62[.]204[.]41[.]71/cs/RED[.]oo
+hxxp[://]62[.]204[.]41[.]71/cs/NON[.]oo
+hxxp[://]62[.]204[.]41[.]71/Offer/Offer[.]zz
+hxxp[://]62[.]204[.]41[.]71/cs/Fax[.]oo
+hxxp[://]62[.]204[.]41[.]71/Offer/Drive[.]exe
+hxxp[://]62[.]204[.]41[.]71/AVA/gate[.]php
+hxxp[://]62[.]204[.]41[.]71/cs/SkyDrive[.]oo
