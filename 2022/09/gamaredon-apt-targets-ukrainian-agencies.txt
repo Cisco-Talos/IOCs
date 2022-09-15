@@ -1,0 +1,56 @@
+IOCs
+Malicious Documents:
+4aa2c783ae3d2d58f12d5e89282069533a80a7ba6f7fe6c548c6230a9601e650
+
+LNK Files:
+581ed090237b314a9f5cd65076cd876c229e1d51328a24effd9c8d812eaebe6a
+34bf1a232870df28809597d49a70d9b549d776e1e4beb3308ff6d169a59ecd02
+78c6b489ac6cebf846aab3687bbe64801fdf924f36f312802c6bb815ed6400ba
+1cb2d299508739ae85d655efd6470c7402327d799eb4b69974e2efdb9226e447
+a9916af0476243e6e0dbef9c45b955959772c4d18b7d1df583623e06414e53b7
+8294815c2342ff11739aff5a55c993f5dd23c6c7caff2ee770e69e88a7c4cb6a
+be79d470c081975528c0736a0aa10214e10e182c8948bc4526138846512f19e7
+5264e8a8571fe0ef689933b8bc2ebe46b985c9263b24ea34e306d54358380cbb
+ff7e8580ce6df5d5f5a2448b4646690a6f6d66b1db37f887b451665f4115d1a2
+1ec69271abd8ebd1a42ac1c2fa5cdd9373ff936dc73f246e7f77435c8fa0f84c
+
+RAR Files:
+750bcec54a2e51f3409c83e2100dfb23d30391e20e1c8051c2bc695914c413e3
+
+Infostealer:
+139547707f38622c67c8ce2c026bf32052edd4d344f03a0b37895b5de016641a 
+
+
+Malicious URLs:
+hxxp://a0698649.xsph[.]ru/barley/barley.xml
+hxxp://a0700343.xsph[.]ru/new/preach.xml
+hxxp://a0700462.xsph[.]ru/grow/guests.xml
+hxxp://a0700462.xsph[.]ru/seek/lost.xml
+hxxp://a0701919.xsph[.]ru/head/selling.xml 
+hxxp://a0701919.xsph[.]ru/predator/decimal.xml
+hxxp://a0701919.xsph[.]ru/registry/prediction.xml
+hxxp://a0704093.xsph[.]ru/basement/insufficient.xml
+hxxp://a0704093.xsph[.]ru/bass/grudge.xml
+hxxp://a0705076.xsph[.]ru/ramzeses1.html
+hxxp://a0705076.xsph[.]ru/regiment.txt
+hxxp://a0705269.xsph[.]ru/bars/dearest.txt 
+hxxp://a0705269.xsph[.]ru/instruct/deaf.txt
+hxxp://a0705269.xsph[.]ru/prok/gur.html
+hxxp://a0705581.xsph[.]ru/guinea/preservation.txt
+hxxp://a0705880.xsph[.]ru/band/sentiment.txt
+hxxp://a0705880.xsph[.]ru/based/pre.txt
+hxxp://a0705880.xsph[.]ru/selection/seedling.txt
+hxxp://a0706248.xsph[.]ru/reject/headlong.txt
+hxxp://a0707763.xsph[.]ru/decipher/prayer.txt 
+
+
+Additional Payload Drop Sites:
+hxxp://155.138.252[.]221/get.php
+hxxp://45.77.237[.]252/get.php
+hxxp://motoristo[.]ru/get.php
+hxxp://heato[.]ru/index.php
+hxxps://<random_string>.celticso[.]ru
+162[.]33[.]178[.]129
+kuckuduk[.]ru
+pasamart[.]ru
+celticso[.]ru
