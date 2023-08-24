@@ -1,0 +1,15 @@
+ed8ec7a8dd089019cfd29143f008fa0951c56a35d73b2e1b274315152d0c0ee6
+db6a9934570fa98a93a979e7e0e218e0c9710e5a787b18c6948f2eedd9338984
+773760fd71d52457ba53a314f15dddb1a74e8b2f5a90e5e150dea48a21aa76df
+05e9fe8e9e693cb073ba82096c291145c953ca3a3f8b3974f9c66d15c1a3a11d
+e3027062e602c5d1812c039739e2f93fc78341a67b77692567a4690935123abe
+146.4.21.94
+109.248.150.13
+108.61.186.55:443
+http://146.4.21.94/tmp/tmp/comp.dat
+http://146.4.21.94/tmp/tmp/log.php
+http://146.4.21.94/tmp/tmp/logs.php
+http://ec2-15-207-207-64.ap-south-1.compute.amazonaws.com/resource/main/rawmail.php
+http://109.248.150.13/EsaFin.exe
+http://146.4.21.94/boards/boardindex.php
+http://146.4.21.94/editor/common/cmod
