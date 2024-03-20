@@ -20,4 +20,3 @@ http://162.19.71.175:7443/sonic/bottom.gif
 http://201.77.179.66:8082/img/lndex.php
 http://201.77.179.66:8082/img/images/header/B691646991EBAEEC.gif
 http://201.77.179.66:8082/img/images/header/7AEBC320998FD5E5.gif
-https://blog.talosintelligence.com/lazarus_new_rats_dlang_and_telegram/
