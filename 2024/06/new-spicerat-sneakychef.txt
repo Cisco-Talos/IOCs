@@ -4,8 +4,7 @@ stock[.]adobe-service[.]net
 app[.]turkmensk[.]org
 http://94.198.40.4/homepage/index.aspx 
 http://stock.adobe-service.net/homepage/index.aspx 
-http://app.turkmensk.org/homepage/index.aspx 
-0191cb2a2624b532b2dffef6690824f7f32ea00730e5aef5d86c4bad6edf9ead  
+http://app.turkmensk.org/homepage/index.aspx  
 6ca2415aabb806a871889c2ab48ad05b1ba444b5867ceadbcea3ab7f23de72f4  
 b84ebbe57151844ac7ac9fc5d488e4696f37f98779d13dceafe6c5a7f2219a4c  
 0374a9812c7e43db1bde605cc3decff3d77c8b041b959a5422e4da0b60e0f6dc  
