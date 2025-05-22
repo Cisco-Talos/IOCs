@@ -1,0 +1,23 @@
+TetraLoader 
+14ed3878b6623c287283a8a80020f68e1cb6bfc37b236f33a95f3a64c4f4611f 
+4ffc33bdc8527a2e8cb87e49cdc16c3b1480dfc135e507d552f581a67d1850a9 
+1de72c03927bcd2810ce98205ff871ef1ebf4344fba187e126e50caa1e43250b 
+1c38e3cda8ac6d79d9da40834367697a209c6b07e6b3ab93b3a4f375b161a901 
+
+CobaltStrike beacons 
+C02d50d0eb3974818091b8dd91a8bbb8cdefd94d4568a4aea8e1dcdd8869f738 
+
+Network IOCs 
+cdn[.]phototagx[.]com 
+www[.]roomako[.]com 
+lgaircon[.]xyz 
+hxxps[://]www[.]roomako[.]com/jquery-3[.]3[.]1[.]min[.]js  
+hxxps[://]lgaircon[.]xyz/owa/OPWiaTU-ZEbuwIAKGPHoQAP006-PTsjBGKQUxZorq2 
+hxxps[://]cdn[.]lgaircon[.]xyz/jquery-3[.]3[.]1[.]min[.]js 
+hxxps[://]cdn[.]phototagx[.]com/ 
+
+192[.]210[.]239[.]172 
+hxxp[://]192[.]210[.]239[.]172:3219/LVLWPH[.]exe 
+hxxp[://]192[.]210[.]239[.]172:3219/MCUCAT[.]exe 
+hxxp[://]192[.]210[.]239[.]172:3219/TJPLYT[.]exe 
+hxxp[://]192[.]210[.]239[.]172:3219/z44[.]exe 
