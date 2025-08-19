@@ -27,7 +27,7 @@ hxxp://tddshht[.]com/chkds.dll
 
 Truebot C2 addresses:
 hxxp://nefosferta.com/gate.php
-hxxp://185[.]55.[.]243[.]110/gate.php
+hxxp://185[.]55[.]243[.]110/gate.php
 hxxp://gbpooolfhbrb[.]com/gate.php
 hxxp://88[.]214[.]27[.]100/gate.php
 hxxp://hiperfdhaus.com/gate.php
