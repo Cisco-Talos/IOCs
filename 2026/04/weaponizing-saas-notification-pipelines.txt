@@ -1,0 +1,10 @@
+https://github.com/Client-Billing-Desk/Accounts-Receivable/commit/a690ad2fd9d93ad9b8e51b842aca860352e1d8ed
+https://github.com/Invoice-Info/Receipt01/commit/1c96b6638bab2a53468669670ddb592995ef4216
+https://github.com/Invoice-Info/Payment/commit/5447f517b9cd54c490a8c2c843f115d73735ae11
+https://github.com/Invoice-Info/Billing0/commit/5c235a673469bfc29723bc0deb5eaa81b4cb8b89
+https://github.com/Invoice-Info00/Admin/commit/79e605e88b2d89f4b91931cf49328368317ad05c
+https://github.com/noreply09786/-Payment-Procseed-765/commit/4e4498fde87899b28199c6735f9a40432ca0ca73
+https://github.com/Receipt-Team/Payment/commit/5417ae6e83dc9a1fdbe985e9d7c1f47655ffa16f
+https://github.com/Receipt-Team/Services/commit/70eb76fcd9ed325202de908c2021fe52eee0c19d
+https://github.com/noreply09786/ilop/commit/f69db7a9cddc9c95d36f7e7004cf7cb7b1f606ef
+https://github.com/Client-Billing-Desk/Customer-Billing/commit/3f7962dc34f1b3a5c3ac5d8f5f637e351a4f9cca
