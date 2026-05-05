@@ -1,0 +1,19 @@
+65fcd965040fabeb6f092df0a4b6856125018bb3b6a1876342da458139f77dac (Rusty dropper)
+ed5de036edbbda52ab0049d2163607038d38a49404a46b6bcfc4bac26b743832 (.NET loader)
+24398b75be2645e6c695e529e62e60deb418143a4bbea13c561d3c361419eb54 (.NET loader)
+5b7284bcf30569ae400e416a62391720cc9081e6047f15816f9d1a04a06eb321 (CloudZ RAT)
+33af554562176eff34598a839051b8e91692b0305edfdbb4d8eb9df0103ffd98 (Plugin Pheno)
+hxxps[://]calm-wildflower-1349[.]hellohiall[.]workers[.]dev/
+hxxps[://]orange-cell-1353[.]hellohiall[.]workers[.]dev/pheno[.]exe
+hxxps[://]round-cherry-4418[.]hellohiall[.]workers[.]dev/?t=1769729309
+hxxps[://]pastebin[.]com/raw/8pYAgF0Z?t=1771833517
+hxxps[://]pastebin[.]com/EBrpRiFi
+hxxps[://]pastebin[.]com/ikjGHALD
+hxxps[://]pastebin[.]com/3jKbe7rN
+hxxps[://]pastebin[.]com/NUrZTmDn
+hxxps[://]pastebin[.]com/RKJcXMAm
+hxxps[://]pastebin[.]com/yUkbaBH3
+calm-wildflower-1349[.]hellohiall[.]workers[.]dev
+orange-cell-1353[.]hellohiall[.]workers[.]dev
+round-cherry-4418[.]hellohiall[.]workers[.]dev
+185[.]196[.]10[.]136 (C2 server)
