@@ -1,0 +1,52 @@
+6ca7a458985350ac082a9c9820d7f8d39128a4c4bda2f5d32f169a45b7b22bc6 MobaXterm_v26.1.exe 
+6ae334ce60d1a9b7fb96d1d0d0eda5ec7c2c31d3f0cf3e4d7e3056504d50043d WebEx_Client.exe 
+1a01ad25712d306f27f526332fdccf959f2de53207b54e4e80f60faa804d6cb6 FaceitInstaller_x64.exe 
+ddcf66ecc61dc6b8cd36748d284d8cb45a470201b5373dd2bfc47700c7da32e1 dbeaver-ce-windows-x86_64.exe 
+603fd9724de346a06e00c1b8502c2ac1180812a18bbf30032dab8d469e5c18e1 dbeaver_ce_windows_x86_64.exe 
+f4491736743a16f1278b8ba01649ee93343764e35ae5e1c0d5e0c0e1d7e32c14 Zoom Installer  
+2c7a99f137efd718f89cf8b260379c99af89ea1939568df09314918f2c5999a3 HTA
+5b9bf7957a9f8869c87ace1a6d76b48e2623073e72739ad0636b5dfa4bb2e0c3 HTA
+7dc77a5abab119960fbe42b1535c957020cce1b8e0a3cf58d4eddc51b5bf9940 HTA
+36e3838d07978f49ebe6546d57d2f311b8d6566558bcd58448e921c988cc346a HTA
+575ce92c473e6d47810321e309a4e29dd7f52f4152526b0bdca80f54b53aed2f HTA
+964256d3259b6e0c701ec04116c45cf0ec381c1c209dc29b09a7930cd7a4810b HTA
+a6821c7e9bfe2e6af0f690d906ec6a26161e2198c256fb60f3b4731c317f3ad9 HTA
+a32ac345e39cb7606322e2155bd7b4d6941c1678619e48d1f14d9301ee53e6c0 Win_Batch
+2751281d3800d82ecd3fad7c1d2293f3b947875a343b0672b4f4024a261165d2 Plugins.7z 
+47dedb08385449d48d8b6543030310317c92cddafa25e14ee0cb9a32d53ced5c Python_Loader.py 
+162e436f18fe6099c57855c8d63fd747493624e87702dc749b242eb9a6b758ca Starland RAT 
+451ac8ca34d5bcdfe476465f69eb517b2608f267c7e8d69f8ef36197a6f1d949 Stage-1-obfuscated-1.ps1 
+365024336c7681ac0854321ac6c140a245b9593285da02d2a590124cdc592370 Stage-1-obfuscated-2.ps1 
+a080b5380ccc8fc40b24c02151d305efc32d931dc547881e01a2e6f2b070c7dc Stage-1-obfuscated-3.ps1 
+17e41d66ebfd56edc960f58f4285697ceceaa812514bb15092672c747979896e Stage-1.ps1 
+f8da52ff98e66b137b5d31908f0a5d0fa1eb446034337f8bba3d5bba60f586be Stage-2.ps1 
+d52540621dec5ed56cac8532f0e4fe10a7575c3e17e984f59646909fa587dd35 WLDR-agent-payload.ps1 
+a59742d3086924c5f511d248df01601bfbf723359590fb3f3ba355f2792cc455 PS-Stage-3-JSON.json 
+2a27b3415114b874da295c19cce5227a8b8d9525cc2da331034a1f45528eecae ShellcodeX64-starlandfox.bin 
+1b46f761719dce44baa2d7b417c5214fc41c080f7f9ba485e7e489d949097f1f ShellcodeX32-x32remka.bin 
+896185a89bd7eb0520b03fdcfb8db0be98b43cf15f14041d73b23d3988c1bcab CastleStealer 
+a1835d333ac3db961a8ff1f4864e3c10a6f73a872c040599091390a009ac7804 remcosRAT 
+eorthopaedics.com 
+sastoro.com 
+zynaris.io  
+alphabitcapital.info 
+niggerdemon.in 
+web-devtools.com 
+aipythondevs.com 
+windowscreenrepairnearme.com 
+104.248.233.104 
+192.81.216.250 
+74.114.119.201 
+178.255.126.39 
+193.149.176.254  
+185.238.191.234 
+https://eorthopaedics.com/feed/note 
+https://web-devtools.com/starlandfox 
+https://web-devtools.com/x32remka 
+https://web-devtools.com/dopfile 
+https://web-devtools.com/file.zip 
+https://eorthopaedics.com/feed/cew78zwvd2/ 
+https://eorthopaedics.com/feed/gnsmetadyx54/ 
+https://sastoro.com/alpha/nrpilqjnut/ 
+https://sastoro.com/alpha/dpyb8w3ycih8/ 
+https://windowscreenrepairnearme.com/command 
